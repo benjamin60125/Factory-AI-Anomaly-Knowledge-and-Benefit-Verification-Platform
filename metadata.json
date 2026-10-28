@@ -1,0 +1,7 @@
+{
+  "name": "工廠 AI 異常知識與效益驗證平台",
+  "description": "工廠老師傅隱性知識萃取、AI 異常相似案例搜尋與處置建議、人工專家覆核，以及停機、報廢與工時之年度百萬效益 ROI 驗證平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
